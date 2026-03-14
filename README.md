@@ -1,4 +1,4 @@
-FindAmplitudeOfArray. Java tutorials. Console Application. Simple Input/Output. Arrays. Algorithms. 
+FindAmplitudeOfArray. Java tutorials. Console Application. Simple Input/Output. Arrays. Algorithms.
 A console application in the Java programming language. 
 The program does the following:
    1. Prompts the user for the number of elements in the array.
